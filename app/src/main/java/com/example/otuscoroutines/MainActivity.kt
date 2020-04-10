@@ -39,6 +39,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun loadLiveData() {
-        model.regreshData()
+        model.refreshData()
     }
 }
